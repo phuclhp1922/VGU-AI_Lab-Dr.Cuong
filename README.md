@@ -1,2 +1,2 @@
 # VGU-AI_Lab-Dr.Cuong
-Code from the AI Lab of Dr Cuong at VGU
+Code for the AI Lab of Dr Cuong at VGU
